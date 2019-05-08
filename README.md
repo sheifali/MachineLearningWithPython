@@ -69,18 +69,18 @@ ___
 - Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, 
   not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these       programs is to __increase the effectiveness__ of their employees.  
 - Lets understand the factors which are most important to employees and if are not fulfilled might lead to Attrition.
-- [Link for the Jupyter notebook](./EmployeeAttritionPrediction/EmployeeAttrition.ipynb)
+- [Link for the Jupyter notebook](./EmployeeAttritionAnalytics/EmployeeAttrition.ipynb)
 
 
 ___
 <a id=section6></a>
-### [FIFA2018 Man Of The Match Prediction](./FIFA2018_Statistics)
+### [FIFA2018 Man Of The Match Prediction](./FIFA2018_Staistics)
 ![image.jpg](images/Fifa.jpg)<br><br>
 - Machine learning is an interesting technology that is traditionally used to predict the outcome of events.  
 - Now, machine learning is being applied beyond its traditional use cases , can be used to predict the outcome of major sporting events    instead of relying on clairvoyant animals, groundless naysayers, or sports pundits.
 - While most of the earlier predictions have been relying on unscientific methods — such as the popular __Paul the Octopus__ that         magically predicted the 2010 World Cup winner (Spain) — Artificial intelligence scientists have also entered the prediction bandwagon,   this time round.
 - An effort to build the model that __predict Man of the Match__ for an very exciting, unpredictable sporting activity __“Football(FIFA   2018 World Cup)”__ 
-- [Link for the Jupyter notebook](./FIFA2018_Statistics/FIFA2018_Analysis.ipynb)
+- [Link for the Jupyter notebook](./FIFA2018_Staistics/FIFA2018_Analysis.ipynb)
 
 
 
